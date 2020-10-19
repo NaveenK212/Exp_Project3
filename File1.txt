@@ -12,5 +12,7 @@
 10. After successfull merge
 11. Adding one line for issue 54
 12. Issue 55
-13. In master branch
+13. In master 
 
+
+14. on branch new master
