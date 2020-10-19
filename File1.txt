@@ -10,3 +10,4 @@
 9. commiting in the issue branch
 10. After successfull merge
 11. Adding one line for issue 54
+12. Issue 55
