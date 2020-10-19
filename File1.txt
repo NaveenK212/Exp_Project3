@@ -7,3 +7,4 @@
 
 
 9. commiting in the issue branch
+10. After successfull merge
