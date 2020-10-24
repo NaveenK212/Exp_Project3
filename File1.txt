@@ -19,3 +19,7 @@
 15. Continue for the second commit from branch new master
 16 . sixteenth line in new master branch
 17. Continue with new master
+
+
+
+18. Commit from github
