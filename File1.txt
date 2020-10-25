@@ -30,4 +30,8 @@
 
 22. Commit for testing2
 
+<<<<<<< HEAD
 23. commit from main branch
+=======
+23. Commit from testing3
+>>>>>>> testing3
