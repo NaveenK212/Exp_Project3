@@ -14,7 +14,7 @@
 12. Issue 55
 
 14. Commit from main branch after a commit from testing2 branch
-
+16. Second commit from main branch after commit from testing2 branch
 14. on branch new master
 15. Continue for the second commit from branch new master
 16 . sixteenth line in new master branch
