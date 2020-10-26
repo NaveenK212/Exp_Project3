@@ -40,3 +40,5 @@
 40. line 40
 41. Line 41
 42. line 42
+
+after reset 
