@@ -55,3 +55,5 @@ commit from branch testin2121
 
 56. Experimenting with stash again
 57. line fifty seven
+
+59. Experimenting with winmerge
